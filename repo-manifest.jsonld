@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/singingwolfboy/flask-dance/commit/70f79fd9b633cea7b9742219888fac08069edc22",
       "git:hexsha": "70f79fd9b633cea7b9742219888fac08069edc22",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T09:51:03.128153+00:00"
     },
     {
       "@id": "https://repolex.ai/r/singingwolfboy/flask-dance/commit/fda069e96d57d8a2fa9d17a8a944d793f5c463e0",
